@@ -44,6 +44,7 @@ $ pip install -r requirement.txt
 - **Chap Chanpiseth**, FE, RUPP (Advisor)
 - **Tan Bunchhay**, ITED, RUPP (Student, E2)
 - **Tan Seyhak**, ITED, RUPP (Student, E2)
+- **Bou Phally**, ITED, RUPP (Student, E2)
 - **Heang Seanghak**, ITED, RUPP (Student, E2)
 - **Tep Chansophanith**, ITED, RUPP (Student, E2)
 ## 4. Acknowledgement
