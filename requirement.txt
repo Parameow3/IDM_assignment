@@ -4,3 +4,4 @@ numpy
 seaborn
 jupyter
 nltk
+selenium
